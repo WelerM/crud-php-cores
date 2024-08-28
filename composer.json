@@ -1,0 +1,20 @@
+{
+    "name": "test/vaga",
+    "description": "test_vaga",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        },
+        "files": [
+            "config.php"
+        ]
+
+    },
+    "authors": [
+        {
+            "name": "weler s. martins"
+        }
+    ],
+    "require": {}
+}
